@@ -1,3 +1,4 @@
+# universal views for all methods in games_controller
 {
   message: @output_message,
 }
